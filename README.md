@@ -7,7 +7,7 @@ CRUD de usuário em Node.js, com Framework Adonis.js
 ### 1 - Clone o reposotório 
 
 ```bash
-git clone https://github.com/CarolineBarbosaM/CRUD-Adonisjs.git
+git clone https://github.com/CarolineBarbosaM/BACK_SIMBORA.git
 ```
 
 ### 2 - Instale a Dependências: 
